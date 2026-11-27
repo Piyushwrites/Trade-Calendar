@@ -1,8 +1,18 @@
-# Trade-Calendar
-A full-stack daily trading P&amp;L calendar web app with color-coded profit/loss heatmaps, multi-account per-tab authentication, Day/Night mode, and row-level isolated Supabase PostgreSQL storage.
+<div align="center">
+
 # Trade Calendar
 
-A clean, distraction-free daily trading journal web application built to track net profit and loss (P&L) with instant visual clarity, user authentication, and row-level isolated cloud storage.
+**Every trade visualized. Every streak protected.**
+
+[![Live App](https://img.shields.io/badge/Live%20App-Vercel-7C3AED?style=for-the-badge)](trdae-calendar.vercel.app)
+
+<br>
+
+<a href="https://your-project-name.vercel.app">
+  <img src="https://img.shields.io/badge/VISIT%20WEBSITE-7C3AED?style=for-the-badge&logoColor=white" alt="Visit Website" />
+</a>
+
+</div>
 
 ## Features
 
