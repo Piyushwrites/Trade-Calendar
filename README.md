@@ -34,8 +34,14 @@
 
 ## Tech Stack
 
-- **Frontend:** HTML5, Tailwind CSS (CDN), Custom CSS3, Vanilla JavaScript (ES6+), Inline SVG
-- **Backend & Auth:** Supabase Auth (`@supabase/supabase-js@2`)
-- **Database:** PostgreSQL with Row Level Security (RLS)
-- **Hosting:** Vercel
-
+![HTML5](https://img.shields.io/badge/HTML5-EAB308?style=for-the-badge&logo=html5&logoColor=black)
+<br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-EAB308?style=for-the-badge&logo=tailwindcss&logoColor=black)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript%20(ES6+)-EAB308?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
+![Supabase](https://img.shields.io/badge/Supabase%20Auth-EAB308?style=for-the-badge&logo=supabase&logoColor=black)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20RLS-EAB308?style=for-the-badge&logo=postgresql&logoColor=black)
+<br>
+![Vercel](https://img.shields.io/badge/Vercel-EAB308?style=for-the-badge&logo=vercel&logoColor=black)
