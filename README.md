@@ -16,6 +16,14 @@ A clean, distraction-free daily trading journal web application built to track n
 - **Day / Night Mode:** Persistent light and dark theme toggle across all screens.
 - **Standalone Info Tabs:** Dedicated **About** and **How it works** guides opening in clean standalone browser tabs.
 
+## Screenshots
+
+### Landing Page
+![Trade Calendar Landing Page](assets/TCR_Landingpage.png)
+
+### Authentication Page
+![Trade Calendar Authentication Page](assets/TCR_Auth.png)
+
 ## Tech Stack
 
 - **Frontend:** HTML5, Tailwind CSS (CDN), Custom CSS3, Vanilla JavaScript (ES6+), Inline SVG
