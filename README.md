@@ -4,8 +4,6 @@
 
 **Every trade visualized. Every streak protected.**
 
-[![Live App](https://img.shields.io/badge/Live%20App-Vercel-7C3AED?style=for-the-badge)](https://trdae-calendar.vercel.app/)
-
 <br>
 
 <a href="https://trdae-calendar.vercel.app/">
