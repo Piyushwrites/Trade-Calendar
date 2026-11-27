@@ -19,10 +19,10 @@ A clean, distraction-free daily trading journal web application built to track n
 ## Screenshots
 
 ### Landing Page
-![Trade Calendar Landing Page](assets/TCR_Landingpage.png)
+![Trade Calendar Landing Page](assets/TCR_Landingpage.png.jpeg)
 
 ### Authentication Page
-![Trade Calendar Authentication Page](assets/TCR_Auth.png)
+![Trade Calendar Authentication Page](assets/TCR_Auth.png.jpeg)
 
 ## Tech Stack
 
